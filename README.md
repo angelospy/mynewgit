@@ -1,6 +1,11 @@
 # mynewgit
 mail/sender
 
+#this will send you a rendom code thet you can copy and if its the same uone we seand you you shod get an output of 'your old pass is: ' but this wount worck if you dont mack a #file whit your pass and inporte it to where it says 'lords'
+#if you mack thea you shoud get an pass an old pass that was created in the file and an emayl whit a rendo code like an i forgot my pass question ))) enjoy
+
+
+
 
 import random
 

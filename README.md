@@ -17,7 +17,7 @@ inll = 'errortipe10110001'
 
 gmail = input('plese enter your gmail:')
 
-if gmail == 'angeloreinapirata@gmail.com':
+if gmail == 'your@gmail.com':
 
     import smtplib
 
